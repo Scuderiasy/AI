@@ -1,0 +1,21 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\AI Image Recognition.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\AI Image Recognition.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\AI Image Recognition.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.dll
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.GPU.dll
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.ML.dll
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.UI.dll
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.Util.dll
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\ZedGraph.dll
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.xml
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.GPU.xml
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.ML.xml
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.CV.UI.xml
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\bin\Debug\Emgu.Util.xml
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI Image Recognition.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI Image Recognition.csproj.ResolveComReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI_Image_Recognition.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI_Image_Recognition.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI Image Recognition.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI Image Recognition.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Image Recognition\AI Image Recognition\obj\Debug\AI Image Recognition.pdb
