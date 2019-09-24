@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\bin\Debug\AI Insertion Sort.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\bin\Debug\AI Insertion Sort.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\bin\Debug\AI Insertion Sort.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\obj\Debug\AI Insertion Sort.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\obj\Debug\AI_Insertion_Sort.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\obj\Debug\AI_Insertion_Sort.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\obj\Debug\AI Insertion Sort.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\obj\Debug\AI Insertion Sort.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Insertion Sort\AI Insertion Sort\obj\Debug\AI Insertion Sort.pdb
