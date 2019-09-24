@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\bin\Debug\Section cc.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\bin\Debug\Section cc.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\bin\Debug\Section cc.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\obj\Debug\Section cc.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\obj\Debug\Section_cc.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\obj\Debug\Section_cc.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\obj\Debug\Section cc.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\obj\Debug\Section cc.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\Section cc\Section cc\obj\Debug\Section cc.pdb
