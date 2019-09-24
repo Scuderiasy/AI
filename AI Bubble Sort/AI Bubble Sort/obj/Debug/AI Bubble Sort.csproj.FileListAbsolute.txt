@@ -1,0 +1,13 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\bin\Debug\AI Bubble Sort.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\bin\Debug\AI Bubble Sort.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\bin\Debug\AI Bubble Sort.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI Bubble Sort.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI_Bubble_Sort.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI_Bubble_Sort.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI Bubble Sort.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI Bubble Sort.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI Bubble Sort.pdb
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\bin\Debug\AI Bubble Sort.exe.manifest
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\bin\Debug\AI Bubble Sort.application
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI Bubble Sort.exe.manifest
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Bubble Sort\AI Bubble Sort\obj\Debug\AI Bubble Sort.application
