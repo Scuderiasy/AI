@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\bin\Debug\AI Perceptron.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\bin\Debug\AI Perceptron.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\bin\Debug\AI Perceptron.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\obj\Debug\AI_Perceptron.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\obj\Debug\AI_Perceptron.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\obj\Debug\AI Perceptron.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\obj\Debug\AI Perceptron.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\obj\Debug\AI Perceptron.pdb
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Perceptron\AI Perceptron\obj\Debug\AI Perceptron.csprojResolveAssemblyReference.cache
