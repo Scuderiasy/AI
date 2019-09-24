@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\bin\Debug\AI Decision tree.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\bin\Debug\AI Decision tree.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\bin\Debug\AI Decision tree.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\obj\Debug\AI Decision tree.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\obj\Debug\AI_Decision_tree.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\obj\Debug\AI_Decision_tree.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\obj\Debug\AI Decision tree.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\obj\Debug\AI Decision tree.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Decision tree\AI Decision tree\obj\Debug\AI Decision tree.pdb
