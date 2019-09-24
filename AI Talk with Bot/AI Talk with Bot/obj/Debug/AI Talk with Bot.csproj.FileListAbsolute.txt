@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\bin\Debug\AI Talk with Bot.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\bin\Debug\AI Talk with Bot.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\bin\Debug\AI Talk with Bot.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\obj\Debug\AI_Talk_with_Bot.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\obj\Debug\AI Talk with Bot.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\obj\Debug\AI Talk with Bot.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\obj\Debug\AI Talk with Bot.pdb
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\obj\Debug\AI Talk with Bot.csprojResolveAssemblyReference.cache
+C:\Users\Thanaban\documents\visual studio 2015\Projects\AI Talk with Bot\AI Talk with Bot\obj\Debug\AI_Talk_with_Bot.Form1.resources
