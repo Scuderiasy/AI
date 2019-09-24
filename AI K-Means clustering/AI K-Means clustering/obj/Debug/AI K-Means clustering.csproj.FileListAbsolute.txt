@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\bin\Debug\AI K-Means clustering.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\bin\Debug\AI K-Means clustering.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\bin\Debug\AI K-Means clustering.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\obj\Debug\AI K-Means clustering.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\obj\Debug\AI_K_Means_clustering.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\obj\Debug\AI_K_Means_clustering.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\obj\Debug\AI K-Means clustering.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\obj\Debug\AI K-Means clustering.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI K-Means clustering\AI K-Means clustering\obj\Debug\AI K-Means clustering.pdb
