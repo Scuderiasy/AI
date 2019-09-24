@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\bin\Debug\AI Simple Artificial Neural Network.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\bin\Debug\AI Simple Artificial Neural Network.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\bin\Debug\AI Simple Artificial Neural Network.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\obj\Debug\AI Simple Artificial Neural Network.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\obj\Debug\AI_Simple_Artificial_Neural_Network.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\obj\Debug\AI_Simple_Artificial_Neural_Network.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\obj\Debug\AI Simple Artificial Neural Network.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\obj\Debug\AI Simple Artificial Neural Network.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Simple Artificial Neural Network\AI Simple Artificial Neural Network\obj\Debug\AI Simple Artificial Neural Network.pdb
