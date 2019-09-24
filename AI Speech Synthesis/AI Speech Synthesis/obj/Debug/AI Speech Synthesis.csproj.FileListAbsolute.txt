@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\bin\Debug\AI Speech Synthesis.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\bin\Debug\AI Speech Synthesis.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\bin\Debug\AI Speech Synthesis.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\obj\Debug\AI Speech Synthesis.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\obj\Debug\AI_Speech_Synthesis.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\obj\Debug\AI Speech Synthesis.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\obj\Debug\AI Speech Synthesis.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\obj\Debug\AI Speech Synthesis.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Speech Synthesis\AI Speech Synthesis\obj\Debug\AI_Speech_Synthesis.Form1.resources
