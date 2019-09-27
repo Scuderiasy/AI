@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\bin\Debug\AI Bubble Sort (Text box style).exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\obj\Debug\AI Bubble Sort (Text box style).csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\obj\Debug\AI_Bubble_Sort__Text_box_style_.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\obj\Debug\AI_Bubble_Sort__Text_box_style_.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\obj\Debug\AI Bubble Sort (Text box style).csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\bin\Debug\AI Bubble Sort (Text box style).exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\bin\Debug\AI Bubble Sort (Text box style).pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\obj\Debug\AI Bubble Sort (Text box style).exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Bubble Sort (Text box style)\AI Bubble Sort (Text box style)\obj\Debug\AI Bubble Sort (Text box style).pdb
