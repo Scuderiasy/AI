@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\bin\Debug\AI Talk with bot + DTH sensor arduino.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\bin\Debug\AI Talk with bot + DTH sensor arduino.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\bin\Debug\AI Talk with bot + DTH sensor arduino.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\obj\Debug\AI Talk with bot + DTH sensor arduino.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\obj\Debug\AI_Talk_with_bot___DTH_sensor_arduino.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\obj\Debug\AI_Talk_with_bot___DTH_sensor_arduino.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\obj\Debug\AI Talk with bot + DTH sensor arduino.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\obj\Debug\AI Talk with bot + DTH sensor arduino.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\AI Talk with bot + DTH sensor arduino\AI Talk with bot + DTH sensor arduino\obj\Debug\AI Talk with bot + DTH sensor arduino.pdb
